@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 190 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://landscape.mcphq.org/llms.txt. The same records are published as JSON at https://landscape.mcphq.org/api/servers.json.
+> Full Markdown catalog of 191 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://landscape.mcphq.org/llms.txt. The same records are published as JSON at https://landscape.mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -1790,6 +1790,18 @@ Cloud security posture management and risk insights from Wiz.
 ## Finance, Commerce, and Business Apps
 
 Payments, banking, CRM, e-commerce, and business system integrations.
+
+### ADEXTO
+
+Bonding-curve token markets on Monad, Arbitrum One, Base, Robinhood Chain and 0G: list and price markets, buy with USDC on Base over x402, and prepare launch, stake and claim transactions for your own key.
+
+- URL: https://github.com/0xcuy/adexto
+- Language: TypeScript
+- Provider: ADEXTO
+- Official: yes
+- Tags: crypto, x402, bonding-curve, base, remote
+- Category: Finance, Commerce, and Business Apps
+- Streamable HTTP endpoint: https://adexto.xyz/api/mcp
 
 ### AgentServices
 
